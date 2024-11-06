@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in full-stack web development and open source projects that make a positive impact.
 
-- 🌱 I’m currently learning Python,Django, SQL.
+- 🌱 I’m currently learning Python,Django, SQL,Angular.
 
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology and create meaningful change in the world.
 
