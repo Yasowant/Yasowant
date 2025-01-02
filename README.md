@@ -47,7 +47,4 @@ I’m also a hobbyist photographer and love capturing nature moments in my free 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasowant&show_icons=true&locale=en" alt="yasowant" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasowant&" alt="yasowant" />
-</p>
 
